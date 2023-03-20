@@ -1,0 +1,6 @@
+Row ID,Order ID,Order Date,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+10000,CA-2017-119928,5/5/2017,ML-17410,Maris LaWare,Consumer,United States,Athens,Georgia,90008,West,TEC-AC-10003399,Accessories,Memorex Mini Travel Drive 64 GB USB 2.0 Flash Drive,36.24,1,0,15.2208
+10001,CA-2017-119929,5/6/2017,RA-19885,Ruben Ausman,Consumer,United States,Miami,Florida,30605,South,TEC-AC-10001539,Accessories,Logitech G430 Surround Sound Gaming Headset with Dolby 7.1 Technology,79.99,1,0,28.7964
+10002,CA-2017-119930,5/7/2017,TB-21400,Tom Boeckenhauer,Consumer,United States,Costa Mesa,California,33180,South,FUR-FU-10001889,Furnishings,0,25.248,3,0.2,4.1028
+10003,CA-2017-119931,5/8/2017,DB-13060,Dave Brooks,Consumer,United States,Westminster,California,92627,West,FUR-FU-10000747,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,91.96,2,0,15.6332
+10004,CA-2017-119932,5/9/2017,CC-12220,Chris Cortes,Consumer,United States,Athens,Georgia,92683,West,OFF-AP-10002684,Appliances,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",243.16,2,0,72.948
